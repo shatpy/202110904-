@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+// 연습문제롤 이용해서 하려니 외부참조 오류가 게속 떠서 인터넷을 참고해 다른 방식으로 과제를 풀어 제출했습니다. 
 int main(void)
 {
 	char str[512] = { 0 };
